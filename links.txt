@@ -1,0 +1,25 @@
+1- Mas3od solution https://github.com/OmarAli3/AssemblyProjects/blob/master/ControllingStepper/Main.asm
+2- 8086 instruction set https://www.tutorialspoint.com/microprocessor/microprocessor_8086_instruction_sets.htm
+   complete instruction set https://www.gabrielececchetti.it/Teaching/CalcolatoriElettronici/Docs/i8086_instruction_set.pdf
+   
+2- Hardware configration links
+  1- https://www.tutorialspoint.com/microprocessor/microprocessor_8086_pin_configuration.htm
+  2- https://www.youtube.com/watch?v=QTFnKONIMbA&feature=youtu.be
+  3- https://www.geeksforgeeks.org/pin-diagram-8086-microprocessor/
+  
+  
+  3- How steeper motor work https://how2electronics.com/stepper-motor-control-with-potentiometer-arduino/?fbclid=IwAR3RfYwwRS7B_Y24szJvGU4g65ebAziJ7JWppnL4e5pW9Mq7_hrq7TYd1io
+                      3-2 https://www.youtube.com/watch?v=lfLe3E6eeYo&ab_channel=%D8%B9%D9%84%D9%8A%D8%A7%D9%84%D8%B1%D8%A7%D9%88%D9%8A
+                      3-3 https://www.youtube.com/watch?v=XaDiQ80nVVI&t=3s&ab_channel=WalidIssa
+                      
+                      
+4- complete project 
+ 4-1 https://www.youtube.com/watch?v=3nBKlPn2P_g&t=725s&ab_channel=MuhammadAnsar
+ 4-2 https://www.youtube.com/watch?v=5tEafVOyXHQ&feature=youtu.be
+ 
+ 
+ 
+ Additional 
+ 1- Arduino ports https://www.arduino.cc/en/Reference/PortManipulation
+ 2- https://drive.google.com/drive/folders/1At8nSP-myV-iSLmD4f0DtGqN8iNSy5ql
+ 
